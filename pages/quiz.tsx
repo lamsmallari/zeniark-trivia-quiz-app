@@ -108,6 +108,11 @@ export default function Quiz({ questions }: { questions: QuestionItem[] }) {
             />
             <div></div>
           </section>
+          {disableQuiz && (
+            <p className="text-center mt-8 animate-pulse">
+              <em>Generating your results please wait...</em>
+            </p>
+          )}
         </div>
       </main>
     </>
