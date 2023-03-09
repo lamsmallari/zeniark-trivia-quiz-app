@@ -17,7 +17,7 @@ For the backend database and API:
 - Firebase Cloud Functions (API)
 - ExpressJS
 
-**Please visit the backend repository here:**
+**Visit the backend repository here for more details:**
 https://github.com/lamsmallari/zeniark-trivia-quiz-api
 
 Miscellaneous tools:
